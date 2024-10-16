@@ -52,4 +52,4 @@ This project leverages deep neural networks (DNNs) to enhance electrocardiogram 
 ---
 
 ## Contact
-For questions, contact Jotham Wambi: jothammartin.wambi@gmail.com
+For questions & Model Architecture Notebook, contact Jotham Wambi: jothammartin.wambi@gmail.com

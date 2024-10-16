@@ -46,7 +46,7 @@ This project leverages deep neural networks (DNNs) to enhance electrocardiogram 
 ## How to Run
 1. Clone the repository.
 2. Install dependencies using `requirements.txt`.
-3. Open and run the provided Jupyter notebook `cvd-Jihi.ipynb` to execute the model.
+3. Open and run the provided Preprocessing Jupyter notebook `preprocessing.ipynb` to execute the preprocessing steps.
 4. Ensure access to the dataset from [PhysioNet](https://physionet.org/content/ecg-arrhythmia/1.0.0/).
 
 ---
